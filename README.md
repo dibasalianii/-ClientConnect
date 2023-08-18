@@ -44,5 +44,3 @@ ClientConnect isn't just a program; it's your strategic partner in elevating cli
 
 ---
 
-[GitHub Repository Link: Your GitHub Repository URL]
-
